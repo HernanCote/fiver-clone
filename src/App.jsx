@@ -40,7 +40,7 @@ function App() {
         element: <Home />,
       },
       {
-        path: '/gigs',
+        path: '/my-gigs',
         element: <Gigs />,
       },
       {
